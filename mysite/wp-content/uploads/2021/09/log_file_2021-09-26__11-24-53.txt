@@ -1,0 +1,23 @@
+
+---Downloaded files---
+The import files for: Main (Full content) were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/mysite
+Data file = D:\xampp\htdocs\mysite/wp-content/themes/sitka/demos/main/sitka-main-content.xml
+Widget file = D:\xampp\htdocs\mysite/wp-content/themes/sitka/demos/main/sitka-main-widgets.wie
+Customizer file = D:\xampp\htdocs\mysite/wp-content/themes/sitka/demos/main/sitka-main-customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+

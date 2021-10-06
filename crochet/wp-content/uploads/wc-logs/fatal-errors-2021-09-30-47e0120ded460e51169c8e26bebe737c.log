@@ -1,0 +1,6 @@
+2021-09-30T02:49:49+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\xampp\htdocs\crochet\wp-content\themes\Avada\includes\lib\inc\class-fusion-searchform.php on line 13
+
+2021-09-30T03:13:23+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\xampp\htdocs\crochet\wp-includes\Requests\Transport\cURL.php on line 462
+
+2021-09-30T03:24:36+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\xampp\htdocs\crochet\wp-includes\class-wp-theme.php on line 1204
+

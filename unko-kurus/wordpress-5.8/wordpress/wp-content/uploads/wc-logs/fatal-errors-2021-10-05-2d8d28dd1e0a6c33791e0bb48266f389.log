@@ -1,0 +1,2 @@
+2021-10-05T05:19:13+00:00 CRITICAL Out of memory (allocated 44040192) (tried to allocate 20480 bytes) in D:\xampp\htdocs\unko-kurus\wordpress-5.8\wordpress\wp-includes\class-wp-hook.php on line 79
+
